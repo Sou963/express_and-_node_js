@@ -1,5 +1,5 @@
 {
-  "name": "express_project_lesson",
+  "name": "express_small_cal",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "express": "^5.1.0",
-    "mongodb": "^6.20.0",
     "nodemon": "^3.1.10"
   }
 }
